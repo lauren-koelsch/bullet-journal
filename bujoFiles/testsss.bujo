@@ -1,0 +1,53 @@
+{
+  "week" : [ {
+    "day" : "WEDNESDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "MONDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "THURSDAY",
+    "tasks" : [ {
+      "name" : "asasd",
+      "description" : "asasd",
+      "day" : "THURSDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ ]
+  }, {
+    "day" : "SUNDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "TUESDAY",
+    "tasks" : [ {
+      "name" : "asdasd",
+      "description" : "asdsd",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "asdd",
+      "description" : "asdsd",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ ]
+  }, {
+    "day" : "FRIDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SATURDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  } ],
+  "theme" : "theme1.css",
+  "icon" : "blueCalendar.png",
+  "Max Events" : 1,
+  "Max Tasks" : 1,
+  "Notes/Quotes" : "asddsadsa",
+  "Event Day Count" : "[0, 0, 0, 0, 0, 0, 0]",
+  "Task Day Count" : "[0, 0, 2, 0, 1, 0, 0]"
+}

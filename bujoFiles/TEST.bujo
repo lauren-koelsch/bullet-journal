@@ -1,0 +1,52 @@
+{
+  "week" : [ {
+    "day" : "WEDNESDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "MONDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "THURSDAY",
+    "tasks" : [ {
+      "name" : "Turn in pa05",
+      "description" : "PA05 final push is due at 1:30pm",
+      "day" : "THURSDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ {
+      "name" : "Last Day of Class",
+      "description" : "We will give presentations",
+      "day" : "THURSDAY",
+      "time" : "11:40",
+      "duration" : 100,
+      "status" : "NOT_COMPLETED"
+    } ]
+  }, {
+    "day" : "SUNDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "TUESDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "FRIDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SATURDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  } ],
+  "theme" : "theme1.css",
+  "icon" : "blueCalendar.png",
+  "Max Events" : 2,
+  "Max Tasks" : 2,
+  "Notes/Quotes" : "Buuujo",
+  "Event Day Count" : "[0, 0, 0, 0, 1, 0, 0]",
+  "Task Day Count" : "[0, 0, 0, 0, 1, 0, 0]",
+  "Event Total Count" : 1,
+  "Task Total Count" : 1
+}

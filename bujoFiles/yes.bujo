@@ -1,0 +1,62 @@
+{
+  "week" : [ {
+    "day" : "WEDNESDAY",
+    "tasks" : [ {
+      "name" : "kmadas",
+      "description" : "asdasd",
+      "day" : "WEDNESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "wefdsf",
+      "description" : "sdfsd",
+      "day" : "WEDNESDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ {
+      "name" : "wmqdwd",
+      "description" : "asasda",
+      "day" : "WEDNESDAY",
+      "time" : "11:00",
+      "duration" : 1232,
+      "status" : "NOT_COMPLETED"
+    } ]
+  }, {
+    "day" : "MONDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "THURSDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SUNDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "TUESDAY",
+    "tasks" : [ {
+      "name" : "hello",
+      "description" : "ask dasd",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ ]
+  }, {
+    "day" : "FRIDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SATURDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  } ],
+  "theme" : "theme2.css",
+  "icon" : "palmTree.png",
+  "Max Events" : 2,
+  "Max Tasks" : 2,
+  "Notes/Quotes" : "\"hello\" - yea",
+  "Event Day Count" : "[0, 0, 0, 1, 0, 0, 0]",
+  "Task Day Count" : "[0, 0, 1, 2, 0, 0, 0]",
+  "Event Total Count" : 1,
+  "Task Total Count" : 3
+}

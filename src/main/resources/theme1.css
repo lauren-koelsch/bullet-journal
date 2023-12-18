@@ -1,0 +1,53 @@
+.root {
+    /*This applies styling for the root node*/
+    /*-fx-text-fill: #165683;*/
+    -fx-background-color: #daefff;
+    -fx-font-family: "Serif";
+}
+
+.label {
+    /* Styling for all Control with the class of 'label' */
+    -fx-text-fill: #165683;
+    -fx-font-family: "Serif";
+}
+
+.button {
+    /* Styling for all Control with the class of 'button' */
+    -fx-text-fill: #ececec;
+    -fx-background-color: #0c598a;
+    -fx-font-family: "Serif";
+}
+
+.text-area {
+    -fx-background-color: #daefff;
+}
+
+
+.combo-box > .list-cell {
+    -fx-text-fill: #ececec;
+    -fx-background-color: #0c598a;
+}
+
+#saveFile {
+    -fx-text-fill: black;
+    -fx-background-color: #82d760;
+    -fx-border-color: black;
+}
+
+#newTask,
+#newEvent {
+    -fx-text-fill: white;
+    -fx-background-color: #0c598a;
+    -fx-font-size: 16;
+}
+
+#taskQueue,
+#sunday,
+#monday,
+#tuesday,
+#wednesday,
+#thursday,
+#friday,
+#saturday {
+    -fx-background-color: #daefff;
+}

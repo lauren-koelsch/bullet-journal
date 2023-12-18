@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Scene?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<Scene xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+    <AnchorPane prefHeight="178.0" prefWidth="196.0">
+      <children>
+         <VBox layoutX="1.0" layoutY="-1.0" prefHeight="169.0" prefWidth="193.0">
+            <children>
+               <HBox alignment="CENTER" prefHeight="52.0" prefWidth="193.0">
+                  <children>
+                     <Label text="Incorrect Input">
+                        <font>
+                           <Font name="STFangsong" size="25.0" />
+                        </font>
+                     </Label>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER" prefHeight="47.0" prefWidth="193.0">
+                  <children>
+                     <Label text="Please read the instructions!">
+                        <font>
+                           <Font name="STFangsong" size="15.0" />
+                        </font>
+                     </Label>
+                  </children>
+               </HBox>
+               <HBox alignment="CENTER" prefHeight="72.0" prefWidth="193.0">
+                  <children>
+                     <Button fx:id="tryAgain" mnemonicParsing="false" prefHeight="41.0" prefWidth="110.0" text="Try Again!">
+                        <font>
+                           <Font name="STFangsong" size="15.0" />
+                        </font>
+                     </Button>
+                  </children>
+               </HBox>
+            </children>
+         </VBox>
+      </children></AnchorPane>
+</Scene>

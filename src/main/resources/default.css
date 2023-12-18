@@ -1,0 +1,21 @@
+.root {
+    /*This applies styling for the root node*/
+    -fx-background-color: white;
+}
+
+#taskQueue,
+#sunday,
+#monday,
+#tuesday,
+#wednesday,
+#thursday,
+#friday,
+#saturday {
+    -fx-background-color: white;
+}
+
+#saveFile {
+    -fx-text-fill: black;
+    -fx-background-color: #82d760;
+    -fx-border-color: black;
+}

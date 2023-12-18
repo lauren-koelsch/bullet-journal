@@ -1,0 +1,46 @@
+.root {
+    /*This applies styling for the root node*/
+    -fx-background-color: rgba(65, 65, 65, 0.83);
+    -fx-font-family: "AppleGothic";
+}
+
+.label {
+    /* Styling for all Control with the class of 'label' */
+    -fx-font-family: "AppleGothic";
+    -fx-text-fill: white;
+}
+
+.combo-box > .list-cell {
+    -fx-text-fill: white;
+    -fx-background-color: #15162c;
+}
+
+.button {
+    /* Styling for all Control with the class of 'button' */
+    -fx-font-family: "AppleGothic";
+    -fx-text-fill: white;
+    -fx-background-color: #15162c;
+}
+
+.text-area {
+    -fx-background-color: #15162c;
+}
+
+#taskQueue,
+#sunday,
+#monday,
+#tuesday,
+#wednesday,
+#thursday,
+#friday,
+#saturday {
+    -fx-background-color: #15162c;
+}
+
+#saveFile {
+    -fx-text-fill: black;
+    -fx-background-color: #82d760;
+    -fx-border-color: black;
+}
+
+

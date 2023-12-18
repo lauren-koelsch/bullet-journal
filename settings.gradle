@@ -1,0 +1,6 @@
+rootProject.name = 'pa05-template'
+include 'src:main:resources'
+findProject(':src:main:resources')?.name = 'resources'
+include 'src:test'
+findProject(':src:test')?.name = 'test'
+

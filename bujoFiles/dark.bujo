@@ -1,0 +1,80 @@
+{
+  "week" : [ {
+    "day" : "WEDNESDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "MONDAY",
+    "tasks" : [ {
+      "name" : "wasdas",
+      "description" : "adsda",
+      "day" : "MONDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ ]
+  }, {
+    "day" : "THURSDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SUNDAY",
+    "tasks" : [ ],
+    "events" : [ {
+      "name" : "qwreqw",
+      "description" : "21eqwa",
+      "day" : "SUNDAY",
+      "time" : "11:20",
+      "duration" : 123213,
+      "status" : "NOT_COMPLETED"
+    } ]
+  }, {
+    "day" : "TUESDAY",
+    "tasks" : [ {
+      "name" : "asdada",
+      "description" : "asdads",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "qwdwda",
+      "description" : "asdasd",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "saadsd",
+      "description" : "asdasd",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "asdadsa",
+      "description" : "asdasd",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "asad",
+      "description" : "asdad",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "qwsda",
+      "description" : "asdsad",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ ]
+  }, {
+    "day" : "FRIDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SATURDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  } ],
+  "theme" : "theme3.css",
+  "icon" : "redCalendar.png",
+  "Max Events" : 10000,
+  "Max Tasks" : 10000,
+  "Notes/Quotes" : "qwewqe",
+  "Event Day Count" : "[1, 0, 0, 0, 0, 0, 0]",
+  "Task Day Count" : "[0, 0, 1, 0, 0, 0, 0]"
+}

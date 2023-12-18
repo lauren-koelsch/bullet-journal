@@ -1,0 +1,64 @@
+{
+  "week" : [ {
+    "day" : "WEDNESDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "MONDAY",
+    "tasks" : [ {
+      "name" : "asdasd",
+      "description" : "asdas",
+      "day" : "MONDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ {
+      "name" : "Event",
+      "description" : "Hwllo",
+      "day" : "MONDAY",
+      "time" : "11:00",
+      "duration" : 100,
+      "status" : "NOT_COMPLETED"
+    }, {
+      "name" : "qasad",
+      "description" : "dasd",
+      "day" : "MONDAY",
+      "time" : "11:00",
+      "duration" : 123,
+      "status" : "NOT_COMPLETED"
+    } ]
+  }, {
+    "day" : "THURSDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SUNDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "TUESDAY",
+    "tasks" : [ {
+      "name" : "Do HW",
+      "description" : "HW1",
+      "day" : "TUESDAY",
+      "status" : "NOT_COMPLETED"
+    } ],
+    "events" : [ ]
+  }, {
+    "day" : "FRIDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  }, {
+    "day" : "SATURDAY",
+    "tasks" : [ ],
+    "events" : [ ]
+  } ],
+  "theme" : "theme2.css",
+  "icon" : "palmTree.png",
+  "Max Events" : 2,
+  "Max Tasks" : 1,
+  "Notes/Quotes" : "Helllo",
+  "Event Day Count" : "[0, 2, 0, 0, 0, 0, 0]",
+  "Task Day Count" : "[0, 1, 1, 0, 0, 0, 0]",
+  "Event Total Count" : 2,
+  "Task Total Count" : 2
+}
